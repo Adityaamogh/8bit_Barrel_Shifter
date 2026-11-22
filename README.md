@@ -59,4 +59,4 @@ Average supply power was calculated as `P_avg = VDD × I_supply,avg` over the si
 | **Complete barrel-shifter schematic** | The shared right-shift core, input/output reversal banks, and wraparound connections |
 | **Functional waveform** | The input word, control signals, and corresponding output for shift and rotation operations |
 | **Power-dissipation plot** | Supply power as a function of time during transient simulation |
-| **Average-power result** | The simulated average supply power of **3.17 nW** at **1.0 V** |
+| **Average-power result** | The simulated average supply power of **3.71 nW** at **1.0 V** |
