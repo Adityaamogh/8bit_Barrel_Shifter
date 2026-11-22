@@ -47,7 +47,7 @@ Transient simulation in Cadence Virtuoso covered **32 control combinations**: fo
 |---|---|
 | Process | GPDK 90 nm CMOS |
 | Supply voltage | 1.0 V |
-| Average supply power over the applied test sequence | **3.17 nW** |
+| Average supply power over the applied test sequence | **3.71 nW** |
 
 Average supply power was calculated as `P_avg = VDD × I_supply,avg` over the simulated test sequence. The power-dissipation plot shows how power varies during that sequence, while the average-power result gives the value over the measurement interval.
 
